@@ -1,6 +1,7 @@
 name: Deploy Node Application
 
 on: 
+  workflow_dispatch
   push:
     branches:
       - mern-ec2-docker
