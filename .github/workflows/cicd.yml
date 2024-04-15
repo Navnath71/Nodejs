@@ -1,7 +1,6 @@
 name: Deploy Node Application
 
 on: 
-  
   push:
     branches:
       - mern-ec2-docker
